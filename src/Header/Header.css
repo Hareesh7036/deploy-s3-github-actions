@@ -1,0 +1,11 @@
+.head{
+    background-color: darkgreen;
+    color: white;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+}
